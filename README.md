@@ -1,5 +1,6 @@
 ## 独角数卡整合TG机器人
-
+tg发卡机器人
+tg机器人对接独角数卡
 搭建方式
 - 安装redis，fileinfo扩展,安装好根目录下的/public/swoole_loader.so扩展,删除禁用函数proc_open
 - 上传源码
